@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RobotStudioAddIn xmlns="urn:abb-robotics-robotstudio-addin" autoLoad="true">
+
+  <DisplayName>VR Paint Add-in</DisplayName>
+  <DisplayVersion>6.06</DisplayVersion>
+
+  <Description></Description>
+
+  <ApplicationId>com.abb.se.vrpaint</ApplicationId>
+  <MinimumHostVersion>6.06</MinimumHostVersion>
+  <AddInType>General</AddInType>
+  <Platform>Any</Platform>
+  <Dependencies>Station</Dependencies>
+
+  <Assembly>
+    <FileName>C:\Users\Kinect\source\repos\VrPaintAddin\obj\Debug\VrPaintAddin.dll</FileName>
+  </Assembly>
+
+</RobotStudioAddIn>
